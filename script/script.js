@@ -7,6 +7,7 @@ const justin = {
         justin.setStatebyScroll();
         justin.handleNav();
         justin.setColor();
+
     },
 
     setStatebyScroll: function () {
@@ -54,8 +55,10 @@ const justin = {
         $('.btn-settings').on('click', function () {
             $('html').toggleClass('open-set-color');
         })
+    },
+
+
+
+
     }
 
-
-
-}

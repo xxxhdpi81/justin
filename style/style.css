@@ -219,5 +219,280 @@ body {
           border-radius: 50%;
           width: 300px;
           height: 300px; }
+  #wrap .section-my-service {
+    margin-top: 100px; }
+    #wrap .section-my-service .container .txt-area {
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      #wrap .section-my-service .container .txt-area .txt p {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 12px;
+        color: #887788;
+        margin-bottom: 10px; }
+      #wrap .section-my-service .container .txt-area .txt h3 {
+        font-size: 30px;
+        font-weight: 700; }
+    #wrap .section-my-service .container .cards-area .top-cards-area {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 50px; }
+      #wrap .section-my-service .container .cards-area .top-cards-area .card {
+        margin: 0 20px; }
+        #wrap .section-my-service .container .cards-area .top-cards-area .card .card-img {
+          background: url(https://images.pexels.com/photos/459654/pexels-photo-459654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) 50% 50%/cover no-repeat;
+          width: 290px;
+          height: 240px; }
+          #wrap .section-my-service .container .cards-area .top-cards-area .card .card-img .txt-area {
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center; }
+            #wrap .section-my-service .container .cards-area .top-cards-area .card .card-img .txt-area .text-bg {
+              width: 165px;
+              height: 40px;
+              background-color: #fff;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              border-radius: 4px; }
+              #wrap .section-my-service .container .cards-area .top-cards-area .card .card-img .txt-area .text-bg h5 {
+                font-size: 14px;
+                color: #333; }
+    #wrap .section-my-service .container .cards-area .bottom-cards-area {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 40px 0 100px 0; }
+      #wrap .section-my-service .container .cards-area .bottom-cards-area .card {
+        margin: 0 20px; }
+        #wrap .section-my-service .container .cards-area .bottom-cards-area .card .card-img {
+          background: url(https://images.pexels.com/photos/459654/pexels-photo-459654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) 50% 50%/cover no-repeat;
+          width: 290px;
+          height: 240px; }
+          #wrap .section-my-service .container .cards-area .bottom-cards-area .card .card-img .txt-area {
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center; }
+            #wrap .section-my-service .container .cards-area .bottom-cards-area .card .card-img .txt-area .text-bg {
+              width: 165px;
+              height: 40px;
+              background-color: #fff;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              border-radius: 4px; }
+              #wrap .section-my-service .container .cards-area .bottom-cards-area .card .card-img .txt-area .text-bg h5 {
+                font-size: 14px;
+                color: #333; }
+  #wrap .section-my-expertises {
+    background-color: #f7f7f7;
+    padding-top: 100px; }
+    #wrap .section-my-expertises .container .txt-area {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 50px; }
+      #wrap .section-my-expertises .container .txt-area .txt p {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 12px;
+        color: #887788;
+        margin-bottom: 10px; }
+      #wrap .section-my-expertises .container .txt-area .txt h3 {
+        font-size: 30px;
+        font-weight: 700; }
+    #wrap .section-my-expertises .container h5 {
+      font-size: 20px;
+      color: #333;
+      margin-bottom: 24px; }
+    #wrap .section-my-expertises .container .wrap-card .top-card {
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      #wrap .section-my-expertises .container .wrap-card .top-card .first-card {
+        margin-right: 15px; }
+        #wrap .section-my-expertises .container .wrap-card .top-card .first-card .card {
+          width: 540px;
+          background-color: #fff;
+          cursor: pointer; }
+          #wrap .section-my-expertises .container .wrap-card .top-card .first-card .card .wrap-contents {
+            padding: 20px; }
+            #wrap .section-my-expertises .container .wrap-card .top-card .first-card .card .wrap-contents .contents h5 {
+              font-size: 18px;
+              margin-bottom: 16px; }
+            #wrap .section-my-expertises .container .wrap-card .top-card .first-card .card .wrap-contents .contents .txt-bg {
+              background-color: #fd735a;
+              border-radius: 4px;
+              width: 150px;
+              height: 18px;
+              margin-bottom: 16px;
+              display: flex;
+              justify-content: center;
+              align-items: center; }
+              #wrap .section-my-expertises .container .wrap-card .top-card .first-card .card .wrap-contents .contents .txt-bg h6 {
+                color: #fff;
+                font-size: 14px;
+                font-weight: 300; }
+            #wrap .section-my-expertises .container .wrap-card .top-card .first-card .card .wrap-contents .contents p {
+              font-weight: 300;
+              font-size: 18px;
+              color: #6e7373;
+              margin-bottom: 20px; }
+      #wrap .section-my-expertises .container .wrap-card .top-card .second-card {
+        margin-left: 15px; }
+        #wrap .section-my-expertises .container .wrap-card .top-card .second-card .card {
+          width: 540px;
+          background-color: #fff; }
+          #wrap .section-my-expertises .container .wrap-card .top-card .second-card .card .wrap-contents {
+            padding: 20px; }
+            #wrap .section-my-expertises .container .wrap-card .top-card .second-card .card .wrap-contents .contents h5 {
+              font-size: 18px;
+              margin-bottom: 16px; }
+            #wrap .section-my-expertises .container .wrap-card .top-card .second-card .card .wrap-contents .contents .txt-bg {
+              background-color: #fd735a;
+              border-radius: 4px;
+              width: 150px;
+              height: 18px;
+              margin-bottom: 16px;
+              display: flex;
+              justify-content: center;
+              align-items: center; }
+              #wrap .section-my-expertises .container .wrap-card .top-card .second-card .card .wrap-contents .contents .txt-bg h6 {
+                color: #fff;
+                font-size: 14px;
+                font-weight: 300; }
+            #wrap .section-my-expertises .container .wrap-card .top-card .second-card .card .wrap-contents .contents p {
+              font-weight: 300;
+              font-size: 18px;
+              color: #6e7373;
+              margin-bottom: 20px; }
+    #wrap .section-my-expertises .container .wrap-card .middle-card {
+      margin-top: 30px;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      #wrap .section-my-expertises .container .wrap-card .middle-card .first-card {
+        margin-right: 15px; }
+        #wrap .section-my-expertises .container .wrap-card .middle-card .first-card .card {
+          width: 540px;
+          background-color: #fff; }
+          #wrap .section-my-expertises .container .wrap-card .middle-card .first-card .card .wrap-contents {
+            padding: 20px; }
+            #wrap .section-my-expertises .container .wrap-card .middle-card .first-card .card .wrap-contents .contents h5 {
+              font-size: 18px;
+              margin-bottom: 16px; }
+            #wrap .section-my-expertises .container .wrap-card .middle-card .first-card .card .wrap-contents .contents .txt-bg {
+              background-color: #fd735a;
+              border-radius: 4px;
+              width: 150px;
+              height: 18px;
+              margin-bottom: 16px;
+              display: flex;
+              justify-content: center;
+              align-items: center; }
+              #wrap .section-my-expertises .container .wrap-card .middle-card .first-card .card .wrap-contents .contents .txt-bg h6 {
+                color: #fff;
+                font-size: 14px;
+                font-weight: 300; }
+            #wrap .section-my-expertises .container .wrap-card .middle-card .first-card .card .wrap-contents .contents p {
+              font-weight: 300;
+              font-size: 18px;
+              color: #6e7373;
+              margin-bottom: 20px; }
+      #wrap .section-my-expertises .container .wrap-card .middle-card .second-card {
+        margin-left: 15px; }
+        #wrap .section-my-expertises .container .wrap-card .middle-card .second-card .card {
+          width: 540px;
+          background-color: #fff; }
+          #wrap .section-my-expertises .container .wrap-card .middle-card .second-card .card .wrap-contents {
+            padding: 20px; }
+            #wrap .section-my-expertises .container .wrap-card .middle-card .second-card .card .wrap-contents .contents h5 {
+              font-size: 18px;
+              margin-bottom: 16px; }
+            #wrap .section-my-expertises .container .wrap-card .middle-card .second-card .card .wrap-contents .contents .txt-bg {
+              background-color: #fd735a;
+              border-radius: 4px;
+              width: 150px;
+              height: 18px;
+              margin-bottom: 16px;
+              display: flex;
+              justify-content: center;
+              align-items: center; }
+              #wrap .section-my-expertises .container .wrap-card .middle-card .second-card .card .wrap-contents .contents .txt-bg h6 {
+                color: #fff;
+                font-size: 14px;
+                font-weight: 300; }
+            #wrap .section-my-expertises .container .wrap-card .middle-card .second-card .card .wrap-contents .contents p {
+              font-weight: 300;
+              font-size: 18px;
+              color: #6e7373;
+              margin-bottom: 20px; }
+    #wrap .section-my-expertises .container .wrap-card .bottom-card {
+      margin-top: 30px;
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      #wrap .section-my-expertises .container .wrap-card .bottom-card .first-card {
+        margin-right: 15px; }
+        #wrap .section-my-expertises .container .wrap-card .bottom-card .first-card .card {
+          width: 540px;
+          background-color: #fff; }
+          #wrap .section-my-expertises .container .wrap-card .bottom-card .first-card .card .wrap-contents {
+            padding: 20px; }
+            #wrap .section-my-expertises .container .wrap-card .bottom-card .first-card .card .wrap-contents .contents h5 {
+              font-size: 18px;
+              margin-bottom: 16px; }
+            #wrap .section-my-expertises .container .wrap-card .bottom-card .first-card .card .wrap-contents .contents .txt-bg {
+              background-color: #fd735a;
+              border-radius: 4px;
+              width: 150px;
+              height: 18px;
+              margin-bottom: 16px;
+              display: flex;
+              justify-content: center;
+              align-items: center; }
+              #wrap .section-my-expertises .container .wrap-card .bottom-card .first-card .card .wrap-contents .contents .txt-bg h6 {
+                color: #fff;
+                font-size: 14px;
+                font-weight: 300; }
+            #wrap .section-my-expertises .container .wrap-card .bottom-card .first-card .card .wrap-contents .contents p {
+              font-weight: 300;
+              font-size: 18px;
+              color: #6e7373;
+              margin-bottom: 20px; }
+      #wrap .section-my-expertises .container .wrap-card .bottom-card .second-card {
+        margin-left: 15px; }
+        #wrap .section-my-expertises .container .wrap-card .bottom-card .second-card .card {
+          width: 540px;
+          background-color: #fff; }
+          #wrap .section-my-expertises .container .wrap-card .bottom-card .second-card .card .wrap-contents {
+            padding: 20px; }
+            #wrap .section-my-expertises .container .wrap-card .bottom-card .second-card .card .wrap-contents .contents h5 {
+              font-size: 18px;
+              margin-bottom: 16px; }
+            #wrap .section-my-expertises .container .wrap-card .bottom-card .second-card .card .wrap-contents .contents .txt-bg {
+              background-color: #fd735a;
+              border-radius: 4px;
+              width: 150px;
+              height: 18px;
+              margin-bottom: 16px;
+              display: flex;
+              justify-content: center;
+              align-items: center; }
+              #wrap .section-my-expertises .container .wrap-card .bottom-card .second-card .card .wrap-contents .contents .txt-bg h6 {
+                color: #fff;
+                font-size: 14px;
+                font-weight: 300; }
+            #wrap .section-my-expertises .container .wrap-card .bottom-card .second-card .card .wrap-contents .contents p {
+              font-weight: 300;
+              font-size: 18px;
+              color: #6e7373;
+              margin-bottom: 20px; }
 
 /*# sourceMappingURL=style.css.map */
